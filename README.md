@@ -59,6 +59,4 @@ GitHub: [eoalewi](https://github.com/eoalewi)
 ---
 
 ### 💡 Fun Animated Badges
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I+build+quant+projects;Always+learning+new+things&center=true&width=600&height=50)](https://git.io/typing-svg)
-
-[![Profile views](https://komarev.com/ghpvc/?username=ayomidemi&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/ayomidemi)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I+build+quant+project;I+build+desktop+applications;Always+learning+new+things&center=true&width=600&height=50)](https://git.io/typing-svg)
