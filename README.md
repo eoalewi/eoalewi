@@ -44,14 +44,10 @@ GitHub: [eoalewi](https://github.com/eoalewi)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx)
-![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=for-the-badge&logo=terraform)
 
 ---
 
-### GitHub Stats
-![Alewi's GitHub stats](https://github-readme-stats.vercel.app/api?username=eoalewi&show_icons=true&theme=radical&count_private=true)  
+### GitHub Stats 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eoalewi&layout=compact&theme=radical)  
 
 ---
