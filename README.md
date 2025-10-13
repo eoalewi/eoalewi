@@ -8,7 +8,9 @@ GitHub: [eoalewi](https://github.com/eoalewi)
 
 💬 Ask me about **tech, coding, or anything you're exploring!**  
 
-📫 Reach me: [alewitosino208@gmail.com](mailto:alewitosino208@gmail.com)  
+📫 Reach me: [alewitosino208@gmail.com](mailto:alewitosino208@gmail.com)    
+
+📄 View my CV: [Google Docs CV](https://docs.google.com/document/d/1Eu4wPt4ErbJA3DmYnleSlcsjlosdZxdkptBAxmiNXWQ/edit?tab=t.0)  
 
 ⚡ Fun fact: **I read tech blogs like novels—learning is my favorite hobby**  
 
