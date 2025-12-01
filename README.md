@@ -10,7 +10,7 @@ GitHub: [eoalewi](https://github.com/eoalewi)
 
 📫 Reach me: [alewitosino208@gmail.com](mailto:alewitosino208@gmail.com)    
 
-📄 View my CV: [Google Docs CV](https://docs.google.com/document/d/1Eu4wPt4ErbJA3DmYnleSlcsjlosdZxdkptBAxmiNXWQ/edit?tab=t.0)  
+📄 View my CV: [Google Docs CV](https://docs.google.com/document/d/1OUAnpkRXXxI4X_3IRCo6hqJlV6I_coAD2USkH2FLICk/edit?tab=t.0)  
 
 ⚡ Fun fact: **I read tech blogs like novels—learning is my favorite hobby**  
 
